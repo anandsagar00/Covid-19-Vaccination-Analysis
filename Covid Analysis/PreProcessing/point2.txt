@@ -1,0 +1,9 @@
+(Wo Balck and white heat map wale ke liye hai)
+
+#this heat map tells us if the occurrence of missing values are sparsely located or located as a big chunk
+#example in female_smokers we see that there are bigger chunks of missing values where as in total_cases we 
+#see that data is missing in very less amount that too very far from each other
+#where as in total_vaccinations we see that data is missing in larger chunks very frequently
+
+We can also see if two columns have almost same number of missing values at same index then we can also verify it using 
+Heatmap-null-coorelation Matrix

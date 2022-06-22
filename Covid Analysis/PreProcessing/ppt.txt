@@ -1,0 +1,7 @@
+(Total_cases.png wala file lena bhai)
+
+As we can see that before the data was highly skewed (13.50),
+due to which a very high % of data was segregated towards a particular value due to which many values were treated as outliers
+So we took log of the column after adding 1 to each value of the column to remove skewness,and now we can see that the data has better
+distribution now (skewness=-0.3)
+

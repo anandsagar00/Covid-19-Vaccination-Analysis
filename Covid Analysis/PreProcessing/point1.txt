@@ -1,0 +1,7 @@
+(Wo Matrix wala heat map jisme correlation ke liye hain)
+
+#this Heat-Map shows the correlation b/w two attributes where they are null
+#ex : if two values are null at same index for most of the times then those 2 attributes will have higher correlation
+#the Column which doesn't show any score in many of its columns have data Missing Completely at Random 
+#ex:Total Vaccination
+
